@@ -1,0 +1,8 @@
+# Ignore ryu official files
+Ryu/ryu
+
+# Ignore .pyc files
+Ryu/*.pyc
+
+#Ignore .txt files
+Ryu/*.txt
